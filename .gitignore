@@ -46,6 +46,11 @@ examples/modules_gallery/**/*.pkl
 examples/modules_gallery/**/*.npz
 examples/modules_gallery/**/*.csv
 
+benchmark_detection/extracted_waveforms/
+benchmark_detection/filtered_rec/
+benchmark_detection/old_hs_detection_peaks/
+benchmark_detection/peak_detection_ch_peaks/
+benchmark_detection/peak_detection_le_peaks/
 
 .vscode/*
 
